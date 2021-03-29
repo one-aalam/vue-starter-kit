@@ -1,6 +1,7 @@
 {
   "name": "vue-starter-kit",
   "version": "1.0.0",
+  "license": "MIT",
   "scripts": {
     "dev": "nodemon --watch ../../dist/index.js -x \"cross-env vite\"",
     "build": "vuedx-typecheck . && cross-env vite build",

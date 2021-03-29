@@ -7,7 +7,7 @@ import { defineComponent, onMounted, onUnmounted, ref } from 'vue'
 
 export default defineComponent({
   emits: ['intersect'],
-  setup(props, { emit }) {
+  setup(_, { emit }) {
       const observer = ref<IntersectionObserver>()
       const el = ref<Element>()
 

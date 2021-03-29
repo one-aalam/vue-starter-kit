@@ -1,13 +1,14 @@
 <template>
     <h2 @click="onPostSelected(post)" :class="{ 'selected': selected }">{{ post?.title }} </h2>
     <p>{{ post?.desc }} </p>
+    <!-- @ts-ignore -->
   <button @click="likes++">{{ likes }}</button>
 </template>
 
 <script lang="ts">
 
 import { ref, defineComponent, toRefs, PropType } from 'vue'
-import { Post } from '@/types'
+import { Post } from '@/commons/types'
 
 export default defineComponent({
   name: 'Post',
@@ -26,9 +27,8 @@ export default defineComponent({
 
     const toggleSelection = () => selected.value = !selected.value 
     const onPostSelected = (post: Post) => emit('selectPost', post)
-    //const providedVotes = this.votes || 0;
-    const votes = ref(post.value.likes || 0)
-    return { votes, selected, toggleSelection, onPostSelected }
+    const likes = ref(post.value.likes || 0)
+    return { likes, selected, toggleSelection, onPostSelected }
   }
 })
 </script>

@@ -1,17 +1,19 @@
-<script setup lang="ts">
-import { defineProps } from 'vue'
+<script lang="ts">
+import { defineComponent } from 'vue'
 
-const props = defineProps({
-  id: {
-    type: String,
-    required: true,
-  },
+export default defineComponent({
+  props: {
+    id: {
+      type: String,
+      required: true,
+    },
+  }
 })
 </script>
 
 
 <template>
-    <h1>Profile {{props.id}}</h1>
+    <h1>Profile {{id}}</h1>
 </template>
 <route>
 {

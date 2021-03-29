@@ -1,5 +1,5 @@
 export type Post = {
     title: string,
-    body: string,
+    desc: string,
     likes: number
 }
