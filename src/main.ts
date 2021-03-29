@@ -1,6 +1,6 @@
 import { createApp } from 'vue'
 import { createI18n } from 'vue-i18n'
-import { createWebHistory, createRouter } from 'vue-router';
+import { createWebHistory, createRouter } from 'vue-router'
 import { setupLayouts } from 'layouts-generated'
 import generatedRoutes from 'pages-generated'
 import messages from '@intlify/vite-plugin-vue-i18n/messages'
@@ -12,13 +12,13 @@ import './index.css'
 const routes = setupLayouts(generatedRoutes)
 
 const i18n = createI18n({
-    locale: 'en',
-    messages
+  locale: 'en',
+  messages,
 })
 
 const router = createRouter({
-    history: createWebHistory(),
-    routes,
-});
+  history: createWebHistory(),
+  routes,
+})
 
 createApp(App).use(i18n).use(router).mount('#app')

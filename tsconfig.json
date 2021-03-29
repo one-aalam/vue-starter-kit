@@ -10,15 +10,13 @@
     "allowSyntheticDefaultImports": true,
     "baseUrl": ".",
     "paths": {
-      "@/*": [
-        "src/*"
-      ]
+      "@/*": ["src/*"]
     },
     "sourceMap": true,
     "lib": ["esnext", "dom"],
     "types": [
-      "vite/client", 
-      "vite-plugin-pages/client", 
+      "vite/client",
+      "vite-plugin-pages/client",
       "vite-plugin-vue-layouts/client",
       "@intlify/vite-plugin-vue-i18n/client"
     ],

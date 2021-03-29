@@ -1,3 +1,1 @@
-export const DEFAULT_POST = {
-    
-}
+export const DEFAULT_POST = {}
