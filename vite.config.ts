@@ -27,7 +27,7 @@ export default defineConfig({
       replaceSquareBrackets: true,
     }),
     Layouts(),
-    EslintPlugin(),
+    // EslintPlugin(),
     ViteFonts({
       google: {
         families: ['Source Sans Pro'],
