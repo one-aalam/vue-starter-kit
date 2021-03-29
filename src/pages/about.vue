@@ -1,12 +1,12 @@
 <script lang="ts">
 import { defineComponent } from 'vue'
 // @ts-ignore
-// import { useI18n } from 'vue-i18n'
+import { useI18n } from 'vue-i18n'
 export default defineComponent({
   setup() {
-    // const { locale, t } = new useI18n({})
+    const { t } = useI18n({ useScope: 'global' })
 
-    // return { locale, t }
+    return { t }
   },
 })
 </script>
@@ -14,6 +14,7 @@ export default defineComponent({
 
 <template>
     <h1>About</h1>
+    <p>{{ t('about.desc')}}</p>
 </template>
 <route>
 {
