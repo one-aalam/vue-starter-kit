@@ -6,8 +6,10 @@ SSR configuration is super simple through [vite-ssr](https://github.com/frandiox
 
 The project uses [https-localhost](https://github.com/daquinoaldo/https-localhost) for local PWA previews. Please follow the instructions outlined here to get up and running with it
 
-# Some amazing work
+# Drawn huge inspiration(and sometimes code) from
 https://github.com/frandiox/vite-ssr
 https://github.com/frandiox/vitedge
 
-https://github.com/frandiox/vue-graphql-enterprise-boilerplate
+## Much better approaches to SSR
+https://github.com/brillout/vite-plugin-ssr
+https://github.com/galvez/fastify-vite
