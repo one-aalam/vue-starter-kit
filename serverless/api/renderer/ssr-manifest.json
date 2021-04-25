@@ -1,0 +1,230 @@
+{
+  "/Users/aftalam/Code/starter-kits/vue-starter-kit/node_modules/@vue/shared/dist/shared.esm-bundler.js": [
+    "/assets/vendor.827e1cb4.js"
+  ],
+  "/Users/aftalam/Code/starter-kits/vue-starter-kit/node_modules/@vue/reactivity/dist/reactivity.esm-bundler.js": [
+    "/assets/vendor.827e1cb4.js"
+  ],
+  "/Users/aftalam/Code/starter-kits/vue-starter-kit/node_modules/@vue/runtime-core/dist/runtime-core.esm-bundler.js": [
+    "/assets/vendor.827e1cb4.js"
+  ],
+  "/Users/aftalam/Code/starter-kits/vue-starter-kit/node_modules/@vue/runtime-dom/dist/runtime-dom.esm-bundler.js": [
+    "/assets/vendor.827e1cb4.js"
+  ],
+  "/Users/aftalam/Code/starter-kits/vue-starter-kit/node_modules/vue/dist/vue.runtime.esm-bundler.js": [
+    "/assets/vendor.827e1cb4.js"
+  ],
+  "/Users/aftalam/Code/starter-kits/vue-starter-kit/node_modules/vue-router/dist/vue-router.esm-bundler.js": [
+    "/assets/vendor.827e1cb4.js"
+  ],
+  "/Users/aftalam/Code/starter-kits/vue-starter-kit/node_modules/vite-ssr/utils/route.js": [
+    "/assets/vendor.827e1cb4.js"
+  ],
+  "/Users/aftalam/Code/starter-kits/vue-starter-kit/node_modules/vite-ssr/utils/state.js": [
+    "/assets/vendor.827e1cb4.js"
+  ],
+  "/Users/aftalam/Code/starter-kits/vue-starter-kit/node_modules/vite-ssr/vue/utils.js": [
+    "/assets/vendor.827e1cb4.js"
+  ],
+  "/Users/aftalam/Code/starter-kits/vue-starter-kit/node_modules/vite-ssr/vue/components.js": [
+    "/assets/vendor.827e1cb4.js"
+  ],
+  "/Users/aftalam/Code/starter-kits/vue-starter-kit/node_modules/vite-ssr/vue/entry-client.js": [
+    "/assets/vendor.827e1cb4.js"
+  ],
+  "/Users/aftalam/Code/starter-kits/vue-starter-kit/node_modules/@vueuse/head/dist/index.mjs": [
+    "/assets/vendor.827e1cb4.js"
+  ],
+  "/Users/aftalam/Code/starter-kits/vue-starter-kit/src/layouts/404.vue?vue&type=script&setup=true&lang.ts": [
+    "/assets/404.192c333e.js"
+  ],
+  "/Users/aftalam/Code/starter-kits/vue-starter-kit/src/layouts/404.vue": [
+    "/assets/404.192c333e.js"
+  ],
+  "/Users/aftalam/Code/starter-kits/vue-starter-kit/node_modules/@vueuse/shared/dist/index.esm.js": [
+    "/assets/home.f9ba48e6.js"
+  ],
+  "/Users/aftalam/Code/starter-kits/vue-starter-kit/node_modules/@vueuse/core/dist/index.esm.js": [
+    "/assets/home.f9ba48e6.js"
+  ],
+  "/Users/aftalam/Code/starter-kits/vue-starter-kit/src/components/Footer.vue?vue&type=script&setup=true&lang.ts": [
+    "/assets/home.f9ba48e6.js"
+  ],
+  "/Users/aftalam/Code/starter-kits/vue-starter-kit/src/layouts/home.vue": [
+    "/assets/home.f9ba48e6.js"
+  ],
+  "/Users/aftalam/Code/starter-kits/vue-starter-kit/src/layouts/private.vue": [
+    "/assets/private.98984c0e.js"
+  ],
+  "/Users/aftalam/Code/starter-kits/vue-starter-kit/src/layouts/public.vue": [
+    "/assets/public.336fb507.js"
+  ],
+  "/Users/aftalam/Code/starter-kits/vue-starter-kit/src/pages/[...all].vue?vue&type=script&setup=true&lang.ts": [
+    "/assets/_...all_.273ea7aa.js"
+  ],
+  "/Users/aftalam/Code/starter-kits/vue-starter-kit/src/pages/[...all].vue?vue&type=route&index=0&lang.route": [
+    "/assets/_...all_.273ea7aa.js"
+  ],
+  "/Users/aftalam/Code/starter-kits/vue-starter-kit/src/pages/[...all].vue": [
+    "/assets/_...all_.273ea7aa.js"
+  ],
+  "/Users/aftalam/Code/starter-kits/vue-starter-kit/src/pages/about.vue?vue&type=script&lang.ts": [
+    "/assets/about.49e66190.js"
+  ],
+  "/Users/aftalam/Code/starter-kits/vue-starter-kit/src/pages/about.vue?vue&type=route&index=0&lang.route": [
+    "/assets/about.49e66190.js"
+  ],
+  "/Users/aftalam/Code/starter-kits/vue-starter-kit/src/pages/about.vue": [
+    "/assets/about.49e66190.js"
+  ],
+  "@vite-icons/ion/social-github-outline": [
+    "/assets/index.204dfcd0.js"
+  ],
+  "/Users/aftalam/Code/starter-kits/vue-starter-kit/src/components/Spinner.vue?vue&type=script&lang.ts": [
+    "/assets/index.204dfcd0.js"
+  ],
+  "/Users/aftalam/Code/starter-kits/vue-starter-kit/src/components/Spinner.vue": [
+    "/assets/index.204dfcd0.js"
+  ],
+  "/Users/aftalam/Code/starter-kits/vue-starter-kit/node_modules/@supabase/supabase-js/dist/module/lib/constants.js": [
+    "/assets/index.204dfcd0.js"
+  ],
+  "\u0000commonjsHelpers.js": [
+    "/assets/index.204dfcd0.js"
+  ],
+  "/Users/aftalam/Code/starter-kits/vue-starter-kit/node_modules/cross-fetch/dist/browser-ponyfill.js": [
+    "/assets/index.204dfcd0.js"
+  ],
+  "/Users/aftalam/Code/starter-kits/vue-starter-kit/node_modules/@supabase/gotrue-js/dist/module/lib/fetch.js": [
+    "/assets/index.204dfcd0.js"
+  ],
+  "/Users/aftalam/Code/starter-kits/vue-starter-kit/node_modules/@supabase/gotrue-js/dist/module/lib/constants.js": [
+    "/assets/index.204dfcd0.js"
+  ],
+  "/Users/aftalam/Code/starter-kits/vue-starter-kit/node_modules/@supabase/gotrue-js/dist/module/lib/cookies.js": [
+    "/assets/index.204dfcd0.js"
+  ],
+  "/Users/aftalam/Code/starter-kits/vue-starter-kit/node_modules/@supabase/gotrue-js/dist/module/lib/helpers.js": [
+    "/assets/index.204dfcd0.js"
+  ],
+  "/Users/aftalam/Code/starter-kits/vue-starter-kit/node_modules/@supabase/gotrue-js/dist/module/GoTrueApi.js": [
+    "/assets/index.204dfcd0.js"
+  ],
+  "/Users/aftalam/Code/starter-kits/vue-starter-kit/node_modules/@supabase/gotrue-js/dist/module/lib/polyfills.js": [
+    "/assets/index.204dfcd0.js"
+  ],
+  "/Users/aftalam/Code/starter-kits/vue-starter-kit/node_modules/@supabase/gotrue-js/dist/module/GoTrueClient.js": [
+    "/assets/index.204dfcd0.js"
+  ],
+  "/Users/aftalam/Code/starter-kits/vue-starter-kit/node_modules/@supabase/supabase-js/dist/module/lib/SupabaseAuthClient.js": [
+    "/assets/index.204dfcd0.js"
+  ],
+  "/Users/aftalam/Code/starter-kits/vue-starter-kit/node_modules/@supabase/postgrest-js/dist/module/lib/types.js": [
+    "/assets/index.204dfcd0.js"
+  ],
+  "/Users/aftalam/Code/starter-kits/vue-starter-kit/node_modules/@supabase/postgrest-js/dist/module/lib/PostgrestTransformBuilder.js": [
+    "/assets/index.204dfcd0.js"
+  ],
+  "/Users/aftalam/Code/starter-kits/vue-starter-kit/node_modules/@supabase/postgrest-js/dist/module/lib/PostgrestFilterBuilder.js": [
+    "/assets/index.204dfcd0.js"
+  ],
+  "/Users/aftalam/Code/starter-kits/vue-starter-kit/node_modules/@supabase/postgrest-js/dist/module/lib/PostgrestQueryBuilder.js": [
+    "/assets/index.204dfcd0.js"
+  ],
+  "/Users/aftalam/Code/starter-kits/vue-starter-kit/node_modules/@supabase/postgrest-js/dist/module/lib/PostgrestRpcBuilder.js": [
+    "/assets/index.204dfcd0.js"
+  ],
+  "/Users/aftalam/Code/starter-kits/vue-starter-kit/node_modules/@supabase/postgrest-js/dist/module/PostgrestClient.js": [
+    "/assets/index.204dfcd0.js"
+  ],
+  "/Users/aftalam/Code/starter-kits/vue-starter-kit/node_modules/@supabase/realtime-js/dist/module/lib/transformers.js": [
+    "/assets/index.204dfcd0.js"
+  ],
+  "/Users/aftalam/Code/starter-kits/vue-starter-kit/node_modules/@supabase/realtime-js/dist/module/lib/constants.js": [
+    "/assets/index.204dfcd0.js"
+  ],
+  "/Users/aftalam/Code/starter-kits/vue-starter-kit/node_modules/@supabase/realtime-js/dist/module/lib/timer.js": [
+    "/assets/index.204dfcd0.js"
+  ],
+  "/Users/aftalam/Code/starter-kits/vue-starter-kit/node_modules/@supabase/realtime-js/dist/module/lib/push.js": [
+    "/assets/index.204dfcd0.js"
+  ],
+  "/Users/aftalam/Code/starter-kits/vue-starter-kit/node_modules/@supabase/realtime-js/dist/module/RealtimeSubscription.js": [
+    "/assets/index.204dfcd0.js"
+  ],
+  "/Users/aftalam/Code/starter-kits/vue-starter-kit/node_modules/es5-ext/global.js": [
+    "/assets/index.204dfcd0.js"
+  ],
+  "/Users/aftalam/Code/starter-kits/vue-starter-kit/node_modules/websocket/package.json": [
+    "/assets/index.204dfcd0.js"
+  ],
+  "/Users/aftalam/Code/starter-kits/vue-starter-kit/node_modules/websocket/lib/version.js": [
+    "/assets/index.204dfcd0.js"
+  ],
+  "/Users/aftalam/Code/starter-kits/vue-starter-kit/node_modules/websocket/lib/browser.js": [
+    "/assets/index.204dfcd0.js"
+  ],
+  "/Users/aftalam/Code/starter-kits/vue-starter-kit/node_modules/@supabase/realtime-js/dist/module/RealtimeClient.js": [
+    "/assets/index.204dfcd0.js"
+  ],
+  "/Users/aftalam/Code/starter-kits/vue-starter-kit/node_modules/@supabase/supabase-js/dist/module/lib/SupabaseRealtimeClient.js": [
+    "/assets/index.204dfcd0.js"
+  ],
+  "/Users/aftalam/Code/starter-kits/vue-starter-kit/node_modules/@supabase/supabase-js/dist/module/lib/SupabaseQueryBuilder.js": [
+    "/assets/index.204dfcd0.js"
+  ],
+  "/Users/aftalam/Code/starter-kits/vue-starter-kit/node_modules/@supabase/supabase-js/dist/module/lib/storage/fetch.js": [
+    "/assets/index.204dfcd0.js"
+  ],
+  "/Users/aftalam/Code/starter-kits/vue-starter-kit/node_modules/@supabase/supabase-js/dist/module/lib/storage/StorageBucketApi.js": [
+    "/assets/index.204dfcd0.js"
+  ],
+  "/Users/aftalam/Code/starter-kits/vue-starter-kit/node_modules/@supabase/supabase-js/dist/module/lib/storage/helpers.js": [
+    "/assets/index.204dfcd0.js"
+  ],
+  "/Users/aftalam/Code/starter-kits/vue-starter-kit/node_modules/@supabase/supabase-js/dist/module/lib/storage/StorageFileApi.js": [
+    "/assets/index.204dfcd0.js"
+  ],
+  "/Users/aftalam/Code/starter-kits/vue-starter-kit/node_modules/@supabase/supabase-js/dist/module/lib/SupabaseStorageClient.js": [
+    "/assets/index.204dfcd0.js"
+  ],
+  "/Users/aftalam/Code/starter-kits/vue-starter-kit/node_modules/@supabase/supabase-js/dist/module/SupabaseClient.js": [
+    "/assets/index.204dfcd0.js"
+  ],
+  "/Users/aftalam/Code/starter-kits/vue-starter-kit/node_modules/@supabase/supabase-js/dist/module/index.js": [
+    "/assets/index.204dfcd0.js"
+  ],
+  "/Users/aftalam/Code/starter-kits/vue-starter-kit/src/lib/supabase.ts": [
+    "/assets/index.204dfcd0.js"
+  ],
+  "/Users/aftalam/Code/starter-kits/vue-starter-kit/src/pages/index.vue?vue&type=script&lang.ts": [
+    "/assets/index.204dfcd0.js"
+  ],
+  "/Users/aftalam/Code/starter-kits/vue-starter-kit/src/pages/index.vue?vue&type=route&index=0&lang.route": [
+    "/assets/index.204dfcd0.js"
+  ],
+  "/Users/aftalam/Code/starter-kits/vue-starter-kit/src/pages/index.vue": [
+    "/assets/index.204dfcd0.js"
+  ],
+  "/Users/aftalam/Code/starter-kits/vue-starter-kit/src/pages/profile/[id].vue?vue&type=script&lang.ts": [
+    "/assets/_id_.5c7d83f5.js"
+  ],
+  "/Users/aftalam/Code/starter-kits/vue-starter-kit/src/pages/profile/[id].vue?vue&type=route&index=0&lang.route": [
+    "/assets/_id_.5c7d83f5.js"
+  ],
+  "/Users/aftalam/Code/starter-kits/vue-starter-kit/src/pages/profile/[id].vue": [
+    "/assets/_id_.5c7d83f5.js"
+  ],
+  "/Users/aftalam/Code/starter-kits/vue-starter-kit/src/pages/hi/[name].vue?vue&type=script&setup=true&lang.ts": [
+    "/assets/_name_.9d0d5af8.js"
+  ],
+  "/Users/aftalam/Code/starter-kits/vue-starter-kit/src/pages/hi/[name].vue": [
+    "/assets/_name_.9d0d5af8.js"
+  ],
+  "/Users/aftalam/Code/starter-kits/vue-starter-kit/src/lib/i18n/translations/en.json": [
+    "/assets/en.05128875.js"
+  ],
+  "/Users/aftalam/Code/starter-kits/vue-starter-kit/src/lib/i18n/translations/fr.json": [
+    "/assets/fr.4e989abc.js"
+  ]
+}

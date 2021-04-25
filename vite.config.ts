@@ -11,6 +11,22 @@ import Restart from 'vite-plugin-restart'
 import replace from '@rollup/plugin-replace'
 import VueI18n from '@intlify/vite-plugin-vue-i18n'
 import EslintPlugin from 'vite-plugin-eslint'
+import viteSSR from 'vite-ssr/plugin'
+import getPageProps from './serverless/api/get-page-props'
+import getPage from './serverless/api/get-page'
+
+const configureDevSeverPlugin = () => ({
+    name: 'configure-server',
+    configureServer(server) {
+        server.middlewares.use('/api/get-page-props', getPageProps)
+        server.middlewares.use('/api/get-page', getPage)
+    //   server.middlewares.use((req, res, next) => {
+    //     // custom handle request...
+    //   })
+    }
+})
+
+// https://github.com/frandiox/vitesse-ssr-template/blob/master/vite.config.ts
 // https://vitejs.dev/config/
 export default defineConfig({
   resolve: {
@@ -19,6 +35,8 @@ export default defineConfig({
     },
   },
   plugins: [
+    viteSSR(),
+    configureDevSeverPlugin(),
     Vue(),
     Pages({
       pagesDir: [{ dir: 'src/pages', baseRoute: '' }],
@@ -66,6 +84,7 @@ export default defineConfig({
     }),
     VueI18n({
       include: [path.resolve(__dirname, 'locales/**')],
+    //   include: [path.resolve(__dirname, 'src/i18n/translations/**')],
     }),
     Restart({
       restart: ['../../dist/*.js'],
@@ -76,6 +95,7 @@ export default defineConfig({
     }),
   ],
   optimizeDeps: {
-    include: ['vue', 'vue-router'],
+    include: ['vue', 'vue-router', '@vueuse/core'],
+    exclude: [ 'vue-demi' ],
   },
 })

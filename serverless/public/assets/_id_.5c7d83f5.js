@@ -1,0 +1,1 @@
+import{d as r,o as e,c as o,t}from"./vendor.827e1cb4.js";var n=r({props:{id:{type:String,required:!0}}}),i={};"function"==typeof i&&i(n),n.render=function(r,n,i,d,a,f){return e(),o("h1",null,"Profile "+t(r.id),1)};export default n;

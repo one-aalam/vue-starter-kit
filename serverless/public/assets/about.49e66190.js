@@ -1,0 +1,1 @@
+import{u as t}from"./index.367c840f.js";import{d as o,o as e,c as n,a as s,t as r,F as u}from"./vendor.827e1cb4.js";var a=o({setup(){const{t:o}=t({useScope:"global"});return{t:o}}}),c={};const l=s("h1",null,"About",-1);"function"==typeof c&&c(a),a.render=function(t,o,a,c,f,p){return e(),n(u,null,[l,s("p",null,r(t.t("about.desc")),1)],64)};export default a;

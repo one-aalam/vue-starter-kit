@@ -1,0 +1,1 @@
+const o={about:"About",back:"Back",go:"GO",home:"Home",toggle_dark:"Toggle dark mode",toggle_langs:"Change languages"},e={desc:"Opinionated Vite Starter Template","dynamic-route":"Demo of dynamic route",hi:"Hi, {name}!","whats-your-name":"What's your name?"};var t={button:o,intro:e,"not-found":"Not found"};export default t;export{o as button,e as intro};

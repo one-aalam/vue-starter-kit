@@ -9,7 +9,7 @@
 
 <script lang="ts">
   import { ref, defineComponent, toRefs, PropType } from 'vue'
-  import { Post } from '@/commons/types'
+  import { Post } from '@/lib/posts/types'
 
   export default defineComponent({
     name: 'Post',
